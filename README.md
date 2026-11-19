@@ -15,3 +15,4 @@ A place to solve one or more LeetCode problems each day and share the solutions.
 | 2243. Calculate Digit Sum of a String | Easy |
 | 2911. Minimum Changes to Make K Semi-palindromes | Hard |
 | 2914. Minimum Number of Changes to Make Binary String Beautiful | Medium |
+| 2567. Minimum Score by Changing Two Elements | Medium |
