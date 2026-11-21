@@ -18,3 +18,4 @@ A place to solve one or more LeetCode problems each day and share the solutions.
 | 2567. Minimum Score by Changing Two Elements | Medium |
 | 3041. Maximize Consecutive Elements in an Array After Modification | Hard |
 | 70. Climbing Stairs | Easy |
+| 118. Pascal's Triangle | Easy |
