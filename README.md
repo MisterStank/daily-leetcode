@@ -20,3 +20,4 @@ A place to solve one or more LeetCode problems each day and share the solutions.
 | 70. Climbing Stairs | Easy |
 | 118. Pascal's Triangle | Easy |
 | 119. Pascal's Triangle II | Easy |
+| 338. Counting Bits | Easy |
