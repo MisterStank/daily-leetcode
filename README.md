@@ -2,7 +2,7 @@
 
 A place to solve one or more LeetCode problems each day and share the solutions.
 
-
+"Good things happen to those who hustle."
 
 ## Progress
 
