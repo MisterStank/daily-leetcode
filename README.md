@@ -26,3 +26,4 @@ A place to solve one or more LeetCode problems each day and share the solutions.
 | 217. Contains Duplicate | Easy |
 | 268. Missing Number | Easy |
 | 448. Find All Numbers Disappeared in an Array | Easy |
+| 1. Two Sum | Easy |
