@@ -24,3 +24,4 @@ A place to solve one or more LeetCode problems each day and share the solutions.
 | 2124. Check if All A's Appears Before All B's | Easy |
 | 3411. Maximum Subarray With Equal Products | Easy |
 | 217. Contains Duplicate | Easy |
+| 268. Missing Number | Easy |
