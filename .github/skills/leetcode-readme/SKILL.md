@@ -14,7 +14,7 @@ Use this skill when adding README documentation for a LeetCode solution in this 
 3. Inspect the existing solution file to confirm the problem's folder and public API.
 4. Retrieve the official problem statement and examples from the LeetCode GraphQL API or the provided URL.
 5. Create `<solution-folder>/README.md` if it does not exist.
-6. Add the problem to the progress table in the repository root `README.md` if it is not already listed.
+6. Add the problem to the progress table in the repository root `README.md` if it is not already listed. Insert the new row last in the table.
 7. Validate Markdown formatting and run `git diff --check`.
 
 ## README format
@@ -76,5 +76,5 @@ Verify that:
 - The title and problem number match the official problem.
 - The examples match the official statement.
 - The constraints use the repository's existing Markdown style.
-- The root progress table contains exactly one entry for the problem.
+- The root progress table contains exactly one entry for the problem as its last row.
 - `git diff --check` reports no formatting errors.
