@@ -30,3 +30,4 @@ A place to solve one or more LeetCode problems each day and share the solutions.
 | 1365. How Many Numbers Are Smaller Than the Current Number | Easy |
 | 3360. Stone Removal Game | Easy |
 | 1266. Minimum Time Visiting All Points | Easy |
+| 845. Longest Mountain in Array | Medium |
