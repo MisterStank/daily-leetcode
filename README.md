@@ -2,7 +2,7 @@
 
 A place to solve one or more LeetCode problems each day and share the solutions.
 
-"Good things happen to those who hustle."
+*“You can work hard, but if you don’t work smart you will work for the rest of your life.” — Tony Stark*
 
 ## Progress
 
